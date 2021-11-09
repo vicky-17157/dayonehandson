@@ -1,0 +1,21 @@
+body{
+    background-color: darkgray;
+}
+h1{color: yellowgreen;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: initial;}
+h2{color: turquoise;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-style: inherit;}
+p{color: rgb(124, 230, 230);}
+section{
+    background-color: rgb(250, 252, 248);font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: rgb(243, 242, 237);font-size: 0rem;text-align: center;
+}
+footer{
+    color: rgb(125, 247, 206);
+}
+article{
+    background-color: rgb(245, 168, 52);
+}
+div{
+    background-color: rgb(252, 253, 251);padding: 15px;margin: 30px;border: #ff6722 dashed 4px;
+}   
